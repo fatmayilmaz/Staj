@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1499254381 source:c:\users\fatma\desktop\staj_banka\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
+1499254381 source:c:\users\fatma\desktop\staj 2017\staj_banka\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
